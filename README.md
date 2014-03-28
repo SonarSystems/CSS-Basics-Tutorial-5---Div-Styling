@@ -1,4 +1,4 @@
-CSS-Basics-Tutorial-5---Div-Styling
+CSS Basics Tutorial 5 - Div Styling
 ===================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/m6821K4bwOk
